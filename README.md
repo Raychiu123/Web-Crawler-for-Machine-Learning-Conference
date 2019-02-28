@@ -6,6 +6,6 @@ Fetch some keywords and save the title of paper into excel from ICRL and NeurIPS
 - ICLR uses javasript to generate the post content, so we need to use webdriver to help us get dynamically pages.
 - Just need to change the 'keywords' in code, and will get the information you want.
 
-The figure is the result:
+The  result:
 
 ![Alt text](/figure/1.PNG)
